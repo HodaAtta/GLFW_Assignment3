@@ -2,6 +2,10 @@
 
 shader example using glfw tool in openGl the output is triangle with shader.
 
+Youtube link:
+  https://youtu.be/yhkveUGilGI
+  
+  the output:
 
 ![1](https://user-images.githubusercontent.com/36824339/49342340-f015f980-f662-11e8-9a11-daf43c3eda59.png)
 
@@ -15,5 +19,4 @@ shader example using glfw tool in openGl the output is triangle with shader.
 
 ![6](https://user-images.githubusercontent.com/36824339/49342358-09b74100-f663-11e8-9a41-f19c01e819b8.png)
 
-Youtube link:
-  https://youtu.be/yhkveUGilGI
+
